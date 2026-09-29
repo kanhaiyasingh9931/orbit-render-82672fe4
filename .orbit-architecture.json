@@ -1,0 +1,6 @@
+{
+  "type": "BACKEND_API",
+  "backend": {
+    "path": "."
+  }
+}

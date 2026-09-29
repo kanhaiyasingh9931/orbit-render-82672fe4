@@ -1,0 +1,17 @@
+{
+  "name": "health-check-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js health check service returning 200 OK on GET /",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
